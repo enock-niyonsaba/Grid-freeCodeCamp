@@ -1,4 +1,4 @@
-Newsletter Project
+# Newsletter Project
 
 This project creates a beautifully styled newsletter using CSS and HTML, based on freeCodeCamp's code samples and inspired design. This README includes an overview of the structure, images to represent key elements, and detailed directions.
 Project Overview
@@ -9,13 +9,6 @@ The project implements a responsive newsletter layout with CSS Grid and Flexbox.
     Author Information: Author bio and social media links.
     Main Content: Project-driven content with quotes, history, and images.
 
-Preview
-Preview Image 1	Preview Image 2	Preview Image 3
-Hero Section	Calculator Project	Quote Machine Project
-
-Note: These images show placeholder designs from freeCodeCamp’s resource collection.
-Installation and Setup
-
     Clone the Repository:
 
     git clone https://github.com/enock-niyonsaba/HTML-CSS-Building
@@ -25,8 +18,8 @@ Installation and Setup
 
     Edit Styles: Modify styles.css to customize fonts, colors, and layout as per project requirements.
 
-Project Structure
-CSS Styles
+## Project Structure
+### CSS Styles
 
 The CSS structure is designed for optimal readability and responsive adaptability. Key styles include:
 
@@ -49,7 +42,7 @@ body {
     Font Selection: Uses 'Baskervville' for body text and 'Raleway' for headings.
     Grid Layout: The main content is displayed using grid-template-columns, with responsive adjustments for smaller screens.
 
-HTML Structure
+## HTML Structure
 
 The HTML follows a semantic structure with section and article tags, providing a clear division of content. Each section is structured to be easy to navigate and styled as follows:
 
@@ -66,11 +59,11 @@ The HTML follows a semantic structure with section and article tags, providing a
   </section>
 </main>
 
-Usage Instructions
+## Usage Instructions
 
     Update Text Content: Add your own text to sections like hero-title, author-name, and various paragraph elements.
     Add Images: Replace placeholder images with your own images, ensuring they fit within the .image-wrapper for responsiveness.
 
-License
+## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the ` MIT License `. See the LICENSE file for details.
